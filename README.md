@@ -13,7 +13,7 @@ To write a python program to implement multivariate linear regression and predic
 
 ### Step4: Assign the values for x and y as requried.
 
-### Step5: Create the LinearRegression model and predict he output.
+### Step5: Create the LinearRegression model and predict the output.
 
 ## Program:
 ```
